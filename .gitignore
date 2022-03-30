@@ -2,6 +2,7 @@
 ### Example user template
 
 # IntelliJ project files
+service-account.json
 .idea
 *.iml
 out
